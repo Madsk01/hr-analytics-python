@@ -1,5 +1,4 @@
-# Maddy
-Test
+
 # HR Analytics Project
 
 This project analyzes HR workforce data using Python.
